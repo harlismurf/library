@@ -1,0 +1,1133 @@
+[
+{
+ "id":"1",
+ "name":"Anggota",
+ "parent_id":"0"
+},
+{
+ "id":"2",
+ "name":"Buku",
+ "parent_id":"0"
+},
+{
+ "id":"3",
+ "name":"Donasi",
+ "parent_id":"0"
+},
+{
+ "id":"4",
+ "name":"Kategori",
+ "parent_id":"0"
+},
+{
+ "id":"5",
+ "name":"Petugas",
+ "parent_id":"0"
+},
+{
+ "id":"6",
+ "name":"Pinjaman",
+ "parent_id":"0"
+},
+
+{
+ "id":"7",
+ "name":"Donasi",
+ "parent_id":"1"
+},
+{
+ "id":"8",
+ "name":"Pinjaman",
+ "parent_id":"1"
+},
+
+{
+ "id":"9",
+ "name":"Kategori",
+ "parent_id":"2"
+},
+{
+ "id":"10",
+ "name":"Pinjaman",
+ "parent_id":"2"
+},
+
+{
+ "id":"11",
+ "name":"Anggota",
+ "parent_id":"3"
+},
+
+{
+ "id":"12",
+ "name":"Buku",
+ "parent_id":"4"
+},
+
+{
+ "id":"13",
+ "name":"Pinjaman",
+ "parent_id":"5"
+},
+
+{
+ "id":"14",
+ "name":"Anggota",
+ "parent_id":"6"
+},
+{
+ "id":"15",
+ "name":"Buku",
+ "parent_id":"6"
+},
+{
+ "id":"16",
+ "name":"Petugas",
+ "parent_id":"6"
+},
+
+{
+ "id":"17",
+ "name":"Donasi",
+ "parent_id":"8"
+},
+{
+ "id":"18",
+ "name":"Buku",
+ "parent_id":"8"
+},
+{
+ "id":"19",
+ "name":"Petugas",
+ "parent_id":"8"
+},
+
+{
+ "id":"20",
+ "name":"Kategori",
+ "parent_id":"10"
+},
+{
+ "id":"21",
+ "name":"Petugas",
+ "parent_id":"10"
+},
+{
+ "id":"22",
+ "name":"Anggota",
+ "parent_id":"10"
+},
+
+{
+ "id":"23",
+ "name":"Pinjaman",
+ "parent_id":"11"
+},
+
+{
+ "id":"24",
+ "name":"Pinjaman",
+ "parent_id":"12"
+},
+
+{
+ "id":"25",
+ "name":"Buku",
+ "parent_id":"13"
+},
+{
+ "id":"26",
+ "name":"Anggota",
+ "parent_id":"13"
+},
+
+{
+ "id":"27",
+ "name":"Donasi",
+ "parent_id":"14"
+},
+{
+ "id":"28",
+ "name":"Buku",
+ "parent_id":"14"
+},
+{
+ "id":"29",
+ "name":"Petugas",
+ "parent_id":"14"
+},
+
+{
+ "id":"30",
+ "name":"Kategori",
+ "parent_id":"15"
+},
+{
+ "id":"31",
+ "name":"Anggota",
+ "parent_id":"15"
+},
+{
+ "id":"32",
+ "name":"Petugas",
+ "parent_id":"15"
+},
+
+{
+ "id":"33",
+ "name":"Buku",
+ "parent_id":"16"
+},
+{
+ "id":"34",
+ "name":"Anggota",
+ "parent_id":"16"
+},
+
+{
+ "id":"35",
+ "name":"Buku",
+ "parent_id":"17"
+},
+{
+ "id":"36",
+ "name":"Petugas",
+ "parent_id":"17"
+},
+
+{
+ "id":"37",
+ "name":"Donasi",
+ "parent_id":"18"
+},
+{
+ "id":"38",
+ "name":"Petugas",
+ "parent_id":"18"
+},
+{
+ "id":"39",
+ "name":"Kategori",
+ "parent_id":"18"
+},
+
+{
+ "id":"40",
+ "name":"Buku",
+ "parent_id":"19"
+},
+{
+ "id":"41",
+ "name":"Donasi",
+ "parent_id":"19"
+},
+
+{
+ "id":"42",
+ "name":"Petugas",
+ "parent_id":"20"
+},
+{
+ "id":"43",
+ "name":"Anggota",
+ "parent_id":"20"
+},
+
+{
+ "id":"44",
+ "name":"Anggota",
+ "parent_id":"21"
+},
+{
+ "id":"45",
+ "name":"Kategori",
+ "parent_id":"21"
+},
+
+{
+ "id":"46",
+ "name":"Donasi",
+ "parent_id":"22"
+},
+{
+ "id":"47",
+ "name":"Petugas",
+ "parent_id":"22"
+},
+{
+ "id":"48",
+ "name":"Kategori",
+ "parent_id":"22"
+},
+
+{
+ "id":"49",
+ "name":"Buku",
+ "parent_id":"23"
+},
+{
+ "id":"50",
+ "name":"Petugas",
+ "parent_id":"23"
+},
+
+{
+ "id":"51",
+ "name":"Petugas",
+ "parent_id":"24"
+},
+{
+ "id":"52",
+ "name":"Anggota",
+ "parent_id":"24"
+},
+
+{
+ "id":"53",
+ "name":"Kategori",
+ "parent_id":"25"
+},
+{
+ "id":"54",
+ "name":"Anggota",
+ "parent_id":"25"
+},
+
+{
+ "id":"55",
+ "name":"Donasi",
+ "parent_id":"26"
+},
+{
+ "id":"56",
+ "name":"Buku",
+ "parent_id":"26"
+},
+
+{
+ "id":"57",
+ "name":"Buku",
+ "parent_id":"27"
+},
+{
+ "id":"58",
+ "name":"Petugas",
+ "parent_id":"27"
+},
+
+{
+ "id":"59",
+ "name":"Kategori",
+ "parent_id":"28"
+},
+{
+ "id":"60",
+ "name":"Petugas",
+ "parent_id":"28"
+},
+{
+ "id":"61",
+ "name":"Donasi",
+ "parent_id":"28"
+},
+
+{
+ "id":"62",
+ "name":"Buku",
+ "parent_id":"29"
+},
+{
+ "id":"63",
+ "name":"Donasi",
+ "parent_id":"29"
+},
+
+{
+ "id":"64",
+ "name":"Petugas",
+ "parent_id":"30"
+},
+{
+ "id":"65",
+ "name":"Anggota",
+ "parent_id":"30"
+},
+
+{
+ "id":"66",
+ "name":"Donasi",
+ "parent_id":"31"
+},
+{
+ "id":"67",
+ "name":"Petugas",
+ "parent_id":"31"
+},
+{
+ "id":"68",
+ "name":"Kategori",
+ "parent_id":"31"
+},
+
+{
+ "id":"69",
+ "name":"Kategori",
+ "parent_id":"32"
+},
+{
+ "id":"70",
+ "name":"Anggota",
+ "parent_id":"32"
+},
+
+{
+ "id":"71",
+ "name":"Anggota",
+ "parent_id":"33"
+},
+{
+ "id":"72",
+ "name":"Kategori",
+ "parent_id":"33"
+},
+
+{
+ "id":"73",
+ "name":"Buku",
+ "parent_id":"34"
+},
+{
+ "id":"74",
+ "name":"Donasi",
+ "parent_id":"34"
+},
+
+{
+ "id":"75",
+ "name":"Petugas",
+ "parent_id":"35"
+},
+{
+ "id":"76",
+ "name":"Kategori",
+ "parent_id":"35"
+},
+
+{
+ "id":"77",
+ "name":"Buku",
+ "parent_id":"36"
+},
+{
+ "id":"78",
+ "name":"Kategori",
+ "parent_id":"36"
+},
+
+{
+ "id":"79",
+ "name":"Petugas",
+ "parent_id":"37"
+},
+{
+ "id":"80",
+ "name":"Kategori",
+ "parent_id":"37"
+},
+
+{
+ "id":"81",
+ "name":"Donasi",
+ "parent_id":"38"
+},
+{
+ "id":"82",
+ "name":"Kategori",
+ "parent_id":"38"
+},
+
+{
+ "id":"83",
+ "name":"Donasi",
+ "parent_id":"39"
+},
+{
+ "id":"84",
+ "name":"Petugas",
+ "parent_id":"39"
+},
+
+{
+ "id":"85",
+ "name":"Donasi",
+ "parent_id":"40"
+},
+{
+ "id":"86",
+ "name":"Kategori",
+ "parent_id":"40"
+},
+
+{
+ "id":"87",
+ "name":"Buku",
+ "parent_id":"41"
+},
+
+{
+ "id":"88",
+ "name":"Anggota",
+ "parent_id":"42"
+},
+
+{
+ "id":"89",
+ "name":"Petugas",
+ "parent_id":"43"
+},
+{
+ "id":"90",
+ "name":"Donasi",
+ "parent_id":"43"
+},
+
+{
+ "id":"91",
+ "name":"Kategori",
+ "parent_id":"44"
+},
+{
+ "id":"92",
+ "name":"Donasi",
+ "parent_id":"44"
+},
+
+{
+ "id":"93",
+ "name":"Anggota",
+ "parent_id":"45"
+},
+
+{
+ "id":"94",
+ "name":"Petugas",
+ "parent_id":"46"
+},
+{
+ "id":"95",
+ "name":"Kategori",
+ "parent_id":"46"
+},
+
+{
+ "id":"96",
+ "name":"Kategori",
+ "parent_id":"47"
+},
+{
+ "id":"97",
+ "name":"Donasi",
+ "parent_id":"47"
+},
+
+{
+ "id":"98",
+ "name":"Petugas",
+ "parent_id":"48"
+},
+{
+ "id":"99",
+ "name":"Donasi",
+ "parent_id":"48"
+},
+
+{
+ "id":"100",
+ "name":"Petugas",
+ "parent_id":"49"
+},
+{
+ "id":"101",
+ "name":"Kategori",
+ "parent_id":"49"
+},
+
+{
+ "id":"102",
+ "name":"Buku",
+ "parent_id":"50"
+},
+
+{
+ "id":"103",
+ "name":"Anggota",
+ "parent_id":"51"
+},
+
+{
+ "id":"104",
+ "name":"Petugas",
+ "parent_id":"52"
+},
+{
+ "id":"105",
+ "name":"Donasi",
+ "parent_id":"52"
+},
+
+{
+ "id":"106",
+ "name":"Anggota",
+ "parent_id":"53"
+},
+
+{
+ "id":"107",
+ "name":"Kategori",
+ "parent_id":"54"
+},
+{
+ "id":"108",
+ "name":"Donasi",
+ "parent_id":"54"
+},
+
+{
+ "id":"109",
+ "name":"Buku",
+ "parent_id":"55"
+},
+
+{
+ "id":"110",
+ "name":"Donasi",
+ "parent_id":"56"
+},
+{
+ "id":"111",
+ "name":"Kategori",
+ "parent_id":"56"
+},
+
+{
+ "id":"112",
+ "name":"Petugas",
+ "parent_id":"57"
+},
+{
+ "id":"113",
+ "name":"Kategori",
+ "parent_id":"57"
+},
+
+{
+ "id":"114",
+ "name":"Buku",
+ "parent_id":"58"
+},
+
+{
+ "id":"115",
+ "name":"Petugas",
+ "parent_id":"59"
+},
+{
+ "id":"116",
+ "name":"Donasi",
+ "parent_id":"59"
+},
+
+{
+ "id":"117",
+ "name":"Kategori",
+ "parent_id":"60"
+},
+{
+ "id":"118",
+ "name":"Donasi",
+ "parent_id":"60"
+},
+
+{
+ "id":"119",
+ "name":"Kategori",
+ "parent_id":"61"
+},
+{
+ "id":"120",
+ "name":"Petugas",
+ "parent_id":"61"
+},
+
+{
+ "id":"121",
+ "name":"Kategori",
+ "parent_id":"62"
+},
+{
+ "id":"122",
+ "name":"Donasi",
+ "parent_id":"62"
+},
+
+{
+ "id":"123",
+ "name":"Buku",
+ "parent_id":"63"
+},
+
+{
+ "id":"124",
+ "name":"Anggota",
+ "parent_id":"64"
+},
+
+{
+ "id":"125",
+ "name":"Petugas",
+ "parent_id":"65"
+},
+{
+ "id":"126",
+ "name":"Donasi",
+ "parent_id":"65"
+},
+
+{
+ "id":"127",
+ "name":"Kategori",
+ "parent_id":"66"
+},
+{
+ "id":"128",
+ "name":"Petugas",
+ "parent_id":"66"
+},
+
+{
+ "id":"129",
+ "name":"Kategori",
+ "parent_id":"67"
+},
+{
+ "id":"130",
+ "name":"Donasi",
+ "parent_id":"67"
+},
+
+{
+ "id":"131",
+ "name":"Petugas",
+ "parent_id":"68"
+},
+{
+ "id":"132",
+ "name":"Donasi",
+ "parent_id":"68"
+},
+
+{
+ "id":"133",
+ "name":"Anggota",
+ "parent_id":"69"
+},
+
+{
+ "id":"134",
+ "name":"Donasi",
+ "parent_id":"70"
+},
+{
+ "id":"135",
+ "name":"Kategori",
+ "parent_id":"70"
+},
+
+{
+ "id":"136",
+ "name":"Kategori",
+ "parent_id":"71"
+},
+{
+ "id":"137",
+ "name":"Donasi",
+ "parent_id":"71"
+},
+
+{
+ "id":"138",
+ "name":"Anggota",
+ "parent_id":"72"
+},
+
+{
+ "id":"139",
+ "name":"Kategori",
+ "parent_id":"73"
+},
+{
+ "id":"140",
+ "name":"Donasi",
+ "parent_id":"73"
+},
+
+{
+ "id":"141",
+ "name":"Buku",
+ "parent_id":"74"
+},
+
+{
+ "id":"142",
+ "name":"Kategori",
+ "parent_id":"75"
+},
+
+{
+ "id":"143",
+ "name":"Petugas",
+ "parent_id":"76"
+},
+
+{
+ "id":"144",
+ "name":"Kategori",
+ "parent_id":"77"
+},
+
+{
+ "id":"145",
+ "name":"Buku",
+ "parent_id":"78"
+},
+
+{
+ "id":"146",
+ "name":"Kategori",
+ "parent_id":"79"
+},
+
+{
+ "id":"147",
+ "name":"Petugas",
+ "parent_id":"80"
+},
+
+{
+ "id":"148",
+ "name":"Kategori",
+ "parent_id":"81"
+},
+
+{
+ "id":"149",
+ "name":"Donasi",
+ "parent_id":"82"
+},
+
+{
+ "id":"150",
+ "name":"Petugas",
+ "parent_id":"83"
+},
+
+{
+ "id":"151",
+ "name":"Donasi",
+ "parent_id":"84"
+},
+
+{
+ "id":"152",
+ "name":"Kategori",
+ "parent_id":"85"
+},
+
+{
+ "id":"153",
+ "name":"Donasi",
+ "parent_id":"86"
+},
+
+{
+ "id":"154",
+ "name":"Kategori",
+ "parent_id":"87"
+},
+
+{
+ "id":"155",
+ "name":"Donasi",
+ "parent_id":"88"
+},
+
+{
+ "id":"156",
+ "name":"Donasi",
+ "parent_id":"89"
+},
+
+{
+ "id":"157",
+ "name":"Petugas",
+ "parent_id":"90"
+},
+
+{
+ "id":"158",
+ "name":"Donasi",
+ "parent_id":"91"
+},
+
+{
+ "id":"159",
+ "name":"Kategori",
+ "parent_id":"92"
+},
+
+{
+ "id":"160",
+ "name":"Donasi",
+ "parent_id":"93"
+},
+
+{
+ "id":"161",
+ "name":"Kategori",
+ "parent_id":"94"
+},
+
+{
+ "id":"162",
+ "name":"Petugas",
+ "parent_id":"95"
+},
+
+{
+ "id":"163",
+ "name":"Donasi",
+ "parent_id":"96"
+},
+
+{
+ "id":"164",
+ "name":"Kategori",
+ "parent_id":"97"
+},
+
+{
+ "id":"165",
+ "name":"Donasi",
+ "parent_id":"98"
+},
+
+{
+ "id":"166",
+ "name":"Petugas",
+ "parent_id":"99"
+},
+
+{
+ "id":"167",
+ "name":"Kategori",
+ "parent_id":"100"
+},
+
+{
+ "id":"168",
+ "name":"Donasi",
+ "parent_id":"101"
+},
+
+{
+ "id":"169",
+ "name":"Kategori",
+ "parent_id":"102"
+},
+
+{
+ "id":"170",
+ "name":"Donasi",
+ "parent_id":"103"
+},
+
+{
+ "id":"171",
+ "name":"Donasi",
+ "parent_id":"104"
+},
+
+{
+ "id":"172",
+ "name":"Petugas",
+ "parent_id":"105"
+},
+
+{
+ "id":"173",
+ "name":"Donasi",
+ "parent_id":"106"
+},
+
+{
+ "id":"174",
+ "name":"Donasi",
+ "parent_id":"107"
+},
+
+{
+ "id":"175",
+ "name":"Kategori",
+ "parent_id":"108"
+},
+
+{
+ "id":"176",
+ "name":"Kategori",
+ "parent_id":"109"
+},
+
+{
+ "id":"177",
+ "name":"Kategori",
+ "parent_id":"110"
+},
+
+{
+ "id":"178",
+ "name":"Donasi",
+ "parent_id":"111"
+},
+
+{
+ "id":"179",
+ "name":"Kategori",
+ "parent_id":"112"
+},
+
+{
+ "id":"180",
+ "name":"Petugas",
+ "parent_id":"113"
+},
+
+{
+ "id":"181",
+ "name":"Kategori",
+ "parent_id":"114"
+},
+
+{
+ "id":"182",
+ "name":"Donasi",
+ "parent_id":"115"
+},
+
+{
+ "id":"183",
+ "name":"Petugas",
+ "parent_id":"116"
+},
+
+{
+ "id":"184",
+ "name":"Donasi",
+ "parent_id":"117"
+},
+
+{
+ "id":"185",
+ "name":"Kategori",
+ "parent_id":"118"
+},
+
+{
+ "id":"186",
+ "name":"Petugas",
+ "parent_id":"119"
+},
+
+{
+ "id":"187",
+ "name":"Kategori",
+ "parent_id":"120"
+},
+
+{
+ "id":"188",
+ "name":"Donasi",
+ "parent_id":"121"
+},
+
+{
+ "id":"189",
+ "name":"Kategori",
+ "parent_id":"122"
+},
+
+{
+ "id":"190",
+ "name":"Kategori",
+ "parent_id":"123"
+},
+
+{
+ "id":"191",
+ "name":"Donasi",
+ "parent_id":"124"
+},
+
+{
+ "id":"192",
+ "name":"Donasi",
+ "parent_id":"125"
+},
+
+{
+ "id":"193",
+ "name":"Petugas",
+ "parent_id":"126"
+},
+
+{
+ "id":"194",
+ "name":"Petugas",
+ "parent_id":"127"
+},
+
+{
+ "id":"195",
+ "name":"Kategori",
+ "parent_id":"128"
+},
+
+{
+ "id":"196",
+ "name":"Donasi",
+ "parent_id":"129"
+},
+
+{
+ "id":"197",
+ "name":"Kategori",
+ "parent_id":"130"
+},
+
+{
+ "id":"198",
+ "name":"Donasi",
+ "parent_id":"131"
+},
+
+{
+ "id":"199",
+ "name":"Petugas",
+ "parent_id":"132"
+},
+
+{
+ "id":"200",
+ "name":"Donasi",
+ "parent_id":"133"
+}
+]
